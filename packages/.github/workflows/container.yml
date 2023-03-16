@@ -1,4 +1,4 @@
-name: deploy-container3
+name: deploy-container
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     paths:
       -'packages/container/**'
 
-default:
+defaults:
   run:
     working-directory: packages/container
 
