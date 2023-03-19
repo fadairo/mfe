@@ -1,4 +1,4 @@
-# deploy-container script.
+# deploy-container script
 name: deploy-container
 
 on:
