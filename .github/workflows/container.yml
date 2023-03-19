@@ -11,7 +11,7 @@ on:
 
 defaults:
   run:
-    working-directory: packages/cointainer
+    working-directory: packages/container
 
 jobs:
   build:
