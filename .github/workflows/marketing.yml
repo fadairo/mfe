@@ -1,4 +1,4 @@
-# deployment script marketing
+# deployment script marketing corrected
 name: deploy-marketing
 
 on:
