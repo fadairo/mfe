@@ -1,4 +1,4 @@
-//Correcting name from app.js to App.js deleted original 
+//Correcting name from app.js to App.js deleted original ly
 import React from 'react';
 import {Switch, Route, BrowserRouter} from 'react-router-dom';
 import { StylesProvider } from '@material-ui/core/styles';
